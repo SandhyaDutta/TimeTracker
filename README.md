@@ -1,0 +1,1 @@
+Built with HTML, JavaScript, and CSS, this application allows users to add, edit, and delete tasks. Each task has an associated timer that can be started, stopped, and reset. The application also utilizes local storage to persist task data and timer states across browser sessions.
